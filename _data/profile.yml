@@ -1,18 +1,18 @@
-primary_name: "Siqi Fu🧘‍♀️"
+primary_name: "Yunpeng Zeng🧘‍♀️"
 secondary_name: ""
-navbar_name: "Siqi Fu"
+navbar_name: "Yunpeng Zeng"
 
 positions:
 - logo: false
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
   # name: Position 1 with logo
-- name: A Ph.D. student at Hangzhou Dianzi University
+- name: A student at Yanti University
 
 
-email: "minus478256@gmail.com"
+email: "yunpengzeng88@163.com"
 # cv_link: link-to-your-cv-file
-gscholar: PmAXeM0AAAAJ #xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: Minus47
+# gscholar: PmAXeM0AAAAJ #xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+# github: Minus47
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -23,32 +23,32 @@ github: Minus47
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi, guys👋! I'm Siqi Fu (符思琦)😊 , currently a first-year Ph.D. student in Computer Science and Technology at Hangzhou Dianzi University, supervised by Prof. <a href="https://sunseaiu.github.io/" target="_blank">Yong Peng</a>. Previously, I received my M.Eng. degree in Computer Technology from Yantai University, where I was advised by Prof. <a href="https://drpengsong.github.io/" target="_blank">Peng Song</a>.
+    Hi, guys👋! I'm Yunpeng Zeng (曾云鹏)😊 , currently a third-year Master’s student in Computer Technology at Yanti University, supervised by Prof. <a href="https://drpengsong.github.io/" target="_blank">Peng Song</a>.
   </p>
   <p>
-    My current research focuses on EEG-based brain-computer interfaces🧠, with a broader interest in neural signal processing and brain-inspired computing. Previously, my work centered on speech and multimodal emotion recognition.
+    My current research focuses on Multi-view clustering.
   </p>
-  <p>
-    During my leisure time, I am interested in movies🎞️, music🎧️, photography📷️, and various sports🏃‍♀️~
-  </p>
+  # <p>
+  #    During my leisure time, I am interested in movies🎞️, music🎧️, photography📷️, and various sports🏃‍♀️~
+  # </p>
 
-portrait_url: /assets/images/photos/fsq.jpg
-portrait_caption: >-
-  Taken at Taipei Music Center, 2025.
+# portrait_url: /assets/images/photos/fsq.jpg
+# portrait_caption: >-
+#   Taken at Taipei Music Center, 2025.
 
 education:
-- name: Hangzhou Dianzi University (HDU)
-  logo: /assets/images/badges/hdu.png
-  position: Ph.D. in Computer Science and Technology
-  date: Sep. 2026 - present
+# - name: Hangzhou Dianzi University (HDU)
+#   logo: /assets/images/badges/hdu.png
+#   position: Ph.D. in Computer Science and Technology
+#   date: Sep. 2026 - present
 - name: Yantai University (YTU)
   logo: /assets/images/badges/ytu.png
   position: M.Eng. in Computer Technology
-  date: Sep. 2023 - Jul. 2026
-- name: Tianjin Foreign Studies University (TJFSU)
-  logo: /assets/images/badges/tjfsu.jpg
-  position: B.Eng. in Digital Media Technology
-  date: Sep. 2019 - Jul. 2023
+  date: Sep. 2024 - Jul. 2027
+# - name: Tianjin Foreign Studies University (TJFSU)
+#   logo: /assets/images/badges/tjfsu.jpg
+#   position: B.Eng. in Digital Media Technology
+#   date: Sep. 2019 - Jul. 2023
 
 # experience:
 # - name: Peking University
@@ -57,13 +57,13 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: The Third Prize Scholarship of YTU
-  date: 2025
+# - name: The First Prize Scholarship of YTU
+#   date: 2025
 - name: The First Prize Scholarship of YTU
-  date: 2024
-- name: The Second Prize Scholarship of TJFSU
-  date: 2022
-- name: The Second Prize Scholarship of TJFSU
-  date: 2021
-- name: National Encouragement Scholarship
-  date: 2020
+  date: 2025
+# - name: The Second Prize Scholarship of TJFSU
+#   date: 2022
+# - name: The Second Prize Scholarship of TJFSU
+#   date: 2021
+# - name: National Encouragement Scholarship
+#   date: 2020
