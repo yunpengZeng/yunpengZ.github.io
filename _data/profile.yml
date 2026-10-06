@@ -1,4 +1,4 @@
-primary_name: "Yunpeng Zeng🧘‍♀️"
+primary_name: "Yunpeng Zeng️"
 secondary_name: ""
 navbar_name: "Yunpeng Zeng"
 
@@ -11,8 +11,8 @@ positions:
 
 email: "yunpengzeng88@163.com"
 # cv_link: link-to-your-cv-file
-# gscholar: PmAXeM0AAAAJ #xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-# github: Minus47
+gscholar: Hz13p8IAAAAJ #xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: yunpengZeng
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -29,12 +29,12 @@ short_bio: >-
     My current research focuses on Multi-view clustering.
   </p>
   # <p>
-  #    During my leisure time, I am interested in movies🎞️, music🎧️, photography📷️, and various sports🏃‍♀️~
+  #    During my leisure time, I am interested in basketball🏀~
   # </p>
 
-# portrait_url: /assets/images/photos/fsq.jpg
-# portrait_caption: >-
-#   Taken at Taipei Music Center, 2025.
+ portrait_url: /assets/images/photos/zyp.jpg
+ portrait_caption: >-
+   Taken at Weihai, 2024.
 
 education:
 # - name: Hangzhou Dianzi University (HDU)
