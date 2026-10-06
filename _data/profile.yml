@@ -12,7 +12,7 @@ positions:
 email: "yunpengzeng88@163.com"
 # cv_link: link-to-your-cv-file
 gscholar: Hz13p8IAAAAJ #xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-# github: yunpengZeng
+github: yunpengZeng
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -28,9 +28,9 @@ short_bio: >-
   <p>
     My current research focuses on Multi-view clustering.
   </p>
-  # <p>
-  #    During my leisure time, I am interested in basketball🏀~
-  # </p>
+  <p>
+      During my leisure time, I am interested in basketball~
+  </p>
 
  portrait_url: /assets/images/photos/zyp.jpg
  portrait_caption: >-
